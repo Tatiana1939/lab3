@@ -1,0 +1,21 @@
+{
+    "window_width": 1000,
+    "window_height": 700,
+    "background_color": [255, 255, 255],
+    "core_radius": 40,
+    "yellow_ring_width": 15,
+    "gray_ring_width": 10,
+    "photon_speed": 3,
+    "gravity_strength": 0.5,
+    "max_photon_speed": 7,
+    "animation_speed": 60,
+    "slider_x": 50,
+    "slider_y": 630,
+    "slider_width": 300,
+    "slider_height": 15,
+    "min_mass": 1000,
+    "max_mass": 10000,
+    "initial_mass": 3000,
+    "base_radius_threshold": 15
+
+}
